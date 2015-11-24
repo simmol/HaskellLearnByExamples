@@ -1,0 +1,25 @@
+# Linux
+.
+..
+!.gitignore
+*~
+
+# SVN
+.svn/
+
+# VIM
+.*.sw[a-z]
+*.un~
+Session.vim
+
+# Netbeans
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+nbactions.xml
+nb-configuration.xml
+
+# Python
+*.pyc
